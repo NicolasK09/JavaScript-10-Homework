@@ -1,0 +1,9 @@
+#posts {
+    list-style: none;
+    padding: 0;
+  }
+  .post {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
